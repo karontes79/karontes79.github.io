@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Whoknows on Il mio punto di vista</title>
+    <link>https://karontes79.github.io/tags/whoknows/</link>
+    <description>Recent content in Whoknows on Il mio punto di vista</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Sun, 12 May 2019 08:13:19 +0200</lastBuildDate>
+    
+	<atom:link href="https://karontes79.github.io/tags/whoknows/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Myfirstpost</title>
+      <link>https://karontes79.github.io/posts/myfirstpost/</link>
+      <pubDate>Sun, 12 May 2019 08:13:19 +0200</pubDate>
+      
+      <guid>https://karontes79.github.io/posts/myfirstpost/</guid>
+      <description>Ciao a tutti, questo è il primo post di questo blog o sito (non so ancora cosa sarà). Ci sono diverse cose che vorrei trattare, linux, attività fisica, scrittura&amp;hellip; molti interessi e poco tempo&amp;hellip; Non so quindi cosa sarà questo sito, per ora esiste e ci lavoricchio un po, imparando ad usare Hugo e Visual Studio Code (tutto software opensource)&amp;hellip;
+Stay tuned!</description>
+    </item>
+    
+  </channel>
+</rss>

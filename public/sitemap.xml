@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://karontes79.github.io/posts/inizio/</loc>
+    <lastmod>2019-05-12T09:14:57+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://karontes79.github.io/about-hugo/</loc>
+    <lastmod>2019-05-12T08:13:43+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://karontes79.github.io/posts/myfirstpost/</loc>
+    <lastmod>2019-05-12T08:13:19+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://karontes79.github.io/tags/beginners/</loc>
+    <lastmod>2019-05-12T09:14:57+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://karontes79.github.io/tags/beginning/</loc>
+    <lastmod>2019-05-12T08:13:19+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://karontes79.github.io/tags/hugoturorial/</loc>
+    <lastmod>2019-05-12T09:14:57+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://karontes79.github.io/</loc>
+    <lastmod>2019-05-12T09:14:57+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://karontes79.github.io/tags/italianhugo/</loc>
+    <lastmod>2019-05-12T09:14:57+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://karontes79.github.io/posts/</loc>
+    <lastmod>2019-05-12T09:14:57+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://karontes79.github.io/tags/</loc>
+    <lastmod>2019-05-12T09:14:57+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://karontes79.github.io/tags/toomanyideas/</loc>
+    <lastmod>2019-05-12T08:13:19+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://karontes79.github.io/tags/whoknows/</loc>
+    <lastmod>2019-05-12T08:13:19+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
