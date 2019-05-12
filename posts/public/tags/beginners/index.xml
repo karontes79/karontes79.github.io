@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Beginners on Il mio punto di vista</title>
+    <link>https://karontes79.github.io/tags/beginners/</link>
+    <description>Recent content in Beginners on Il mio punto di vista</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Sun, 12 May 2019 09:14:57 +0200</lastBuildDate>
+    
+	<atom:link href="https://karontes79.github.io/tags/beginners/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Inizio</title>
+      <link>https://karontes79.github.io/posts/inizio/</link>
+      <pubDate>Sun, 12 May 2019 09:14:57 +0200</pubDate>
+      
+      <guid>https://karontes79.github.io/posts/inizio/</guid>
+      <description>Si inizia&amp;hellip; come prima cosa appena finito voglio pubblicare un tutorial in italiano su come usare Hugo e pubblicare un sito su Github. E&amp;rsquo; tutto abbastanza facile e ci sono documenti un po ovunque ma spesso sono in inglese e non sempre per neofiti&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

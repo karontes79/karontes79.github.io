@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Il mio punto di vista</title>
+    <link>https://karontes79.github.io/</link>
+    <description>Recent content on Il mio punto di vista</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Sun, 12 May 2019 09:14:57 +0200</lastBuildDate>
+    
+	<atom:link href="https://karontes79.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Inizio</title>
+      <link>https://karontes79.github.io/posts/inizio/</link>
+      <pubDate>Sun, 12 May 2019 09:14:57 +0200</pubDate>
+      
+      <guid>https://karontes79.github.io/posts/inizio/</guid>
+      <description>Si inizia&amp;hellip; come prima cosa appena finito voglio pubblicare un tutorial in italiano su come usare Hugo e pubblicare un sito su Github. E&amp;rsquo; tutto abbastanza facile e ci sono documenti un po ovunque ma spesso sono in inglese e non sempre per neofiti&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://karontes79.github.io/about-hugo/</link>
+      <pubDate>Sun, 12 May 2019 08:13:43 +0200</pubDate>
+      
+      <guid>https://karontes79.github.io/about-hugo/</guid>
+      <description>This page is a personal blog. It contains ideas, toughts, comments, (maybe) emotions of the site owner (J0s) Please do not blame or hack</description>
+    </item>
+    
+    <item>
+      <title>Myfirstpost</title>
+      <link>https://karontes79.github.io/posts/myfirstpost/</link>
+      <pubDate>Sun, 12 May 2019 08:13:19 +0200</pubDate>
+      
+      <guid>https://karontes79.github.io/posts/myfirstpost/</guid>
+      <description>Ciao a tutti, questo è il primo post di questo blog o sito (non so ancora cosa sarà). Ci sono diverse cose che vorrei trattare, linux, attività fisica, scrittura&amp;hellip; molti interessi e poco tempo&amp;hellip; Non so quindi cosa sarà questo sito, per ora esiste e ci lavoricchio un po, imparando ad usare Hugo e Visual Studio Code (tutto software opensource)&amp;hellip;
+Stay tuned!</description>
+    </item>
+    
+  </channel>
+</rss>
