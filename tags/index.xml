@@ -7,9 +7,64 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Sun, 12 May 2019 09:14:57 +0200</lastBuildDate>
     
 	<atom:link href="https://karontes79.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Beginners</title>
+      <link>https://karontes79.github.io/tags/beginners/</link>
+      <pubDate>Sun, 12 May 2019 09:14:57 +0200</pubDate>
+      
+      <guid>https://karontes79.github.io/tags/beginners/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Beginning</title>
+      <link>https://karontes79.github.io/tags/beginning/</link>
+      <pubDate>Sun, 12 May 2019 08:13:19 +0200</pubDate>
+      
+      <guid>https://karontes79.github.io/tags/beginning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hugoturorial</title>
+      <link>https://karontes79.github.io/tags/hugoturorial/</link>
+      <pubDate>Sun, 12 May 2019 09:14:57 +0200</pubDate>
+      
+      <guid>https://karontes79.github.io/tags/hugoturorial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Italianhugo</title>
+      <link>https://karontes79.github.io/tags/italianhugo/</link>
+      <pubDate>Sun, 12 May 2019 09:14:57 +0200</pubDate>
+      
+      <guid>https://karontes79.github.io/tags/italianhugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Toomanyideas</title>
+      <link>https://karontes79.github.io/tags/toomanyideas/</link>
+      <pubDate>Sun, 12 May 2019 08:13:19 +0200</pubDate>
+      
+      <guid>https://karontes79.github.io/tags/toomanyideas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Whoknows</title>
+      <link>https://karontes79.github.io/tags/whoknows/</link>
+      <pubDate>Sun, 12 May 2019 08:13:19 +0200</pubDate>
+      
+      <guid>https://karontes79.github.io/tags/whoknows/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
