@@ -3,58 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://karontes79.github.io/posts/the-figure-shortcode/</loc>
-    <lastmod>2018-12-24T12:29:41+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://karontes79.github.io/posts/post-with-featured-image/</loc>
-    <lastmod>2018-10-01T16:15:09+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://karontes79.github.io/posts/typography/</loc>
-    <lastmod>2018-09-29T11:36:33+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://karontes79.github.io/posts/creating-a-new-theme/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://karontes79.github.io/tags/demo/</loc>
-    <lastmod>2018-12-24T12:29:41+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://karontes79.github.io/</loc>
-    <lastmod>2018-12-24T12:29:41+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://karontes79.github.io/tags/image/</loc>
-    <lastmod>2018-12-24T12:29:41+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://karontes79.github.io/posts/</loc>
-    <lastmod>2018-12-24T12:29:41+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://karontes79.github.io/tags/</loc>
-    <lastmod>2018-12-24T12:29:41+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://karontes79.github.io/tags/typography/</loc>
-    <lastmod>2018-09-29T11:36:33+08:00</lastmod>
     <priority>0</priority>
   </url>
   
